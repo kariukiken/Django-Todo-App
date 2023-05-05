@@ -1,0 +1,11 @@
+Install all packages
+	#pip3 install -r requirements.txt
+Create a virtual environment
+	#virtualenv (env) *name of your liking
+Start virtual environment
+	LINUX
+	#source env/bin/activated or source env/bin/local/activated *(This will depend on the location of the virtual environment)
+	WINDOWS
+	#
+
+	
